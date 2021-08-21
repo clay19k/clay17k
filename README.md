@@ -1,6 +1,7 @@
 <img src="https://media3.giphy.com/media/10khKaHKOP2mZ2/giphy.gif?cid=ecf05e473cfdf6b20afb8760afd87fb4ce6ab1236dae638c&rid=giphy.gif&ct=g" aLign="right" width="400" height="250">
 
- ### Hi There, I'm Baysan. :blush:
+ ### Hi There :blush:
+ ## My name is Yaşar. I'm 18 and Turkish.
 
  ## Discord Bot Developer (JS)
  ## Fivem Developer Lua & Javascript
