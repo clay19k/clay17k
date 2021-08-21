@@ -2,7 +2,8 @@
 
  ### Hi There, I'm Baysan. :blush:
 
- ## Discord Developer
+ ## Discord Bot Developer (JS)
+ ##Fivem Developer Lua & Javascript
 
 
  <font color="purple">Coffee coffee is how I keep up with </> </font>
