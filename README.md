@@ -9,8 +9,8 @@
 
  ### Reach Out To Me
 
-[<img width="32" src="https://unpkg.com/simple-icons@v5/icons/[instagram].svg" />][instagram]
-[<img width="32" src="https://unpkg.com/simple-icons@v5/icons/[discord].svg" />][discord]
+[<img  width="22" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img  width="22" src="https://simpleicons.org/icons/discord.svg" />][discord]
 
 <br />
 <br />
