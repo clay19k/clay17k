@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/OYlL0RNwaDC3hVR9lF/giphy.gif?cid=790b7611d3575352a5d624a27e5ccbae7a2c27e9f67283cd&rid=giphy.gif&ct=g" aLign="right" width="400" height="250">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1731046225864777579/0CCDEA4B48EAA8B133DECB7BA6B7B97963CBCC05/?imw=498&imh=280&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" aLign="right" width="400" height="250">
 
  ### Hi There :blush:
  ## My name is Baysan. I'm Age 16 and Turkish.
