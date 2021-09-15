@@ -1,26 +1,29 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1731046225864777579/0CCDEA4B48EAA8B133DECB7BA6B7B97963CBCC05/?imw=498&imh=280&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" aLign="right" width="400" height="250">
+<h1 align="center"> Newglxck Devils</h1>
 
- ### Hi There :blush:
- ## My name is Baysan. I'm Age 16 and Turkish.
+<div align="center">
+<a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
+</div>
 
- ## Discord Bot Developer (JS)
- ## Fivem Developer Lua & Javascript
+<div align="center">
+    <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973"></a>
+</div>
 
+## Bildiğim diller!
+<div align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/typescript%20-%23E34F26.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 
- <font color="purple">Coffee coffee is how I keep up with </> </font>
+</div>
 
- ### Reach Out To Me
-
-[<img  width="22" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img  width="22" src="https://simpleicons.org/icons/discord.svg" />][discord]
-
-<br />
-<br />
-
-
-### Tech I Use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
-<img src="https://komarev.com/ghpvc/?username=Bankerr&label=Ziyaretçi%20Sayısı&color=552b75" alt="Newglxck" />
-
-[instagram]: https://www.instagram.com/newqlxck/?hl=tr
-[discord]: https://discord.gg/KbJeUMHBBh
+## Sosyal medya hesaplarım!
+<p align="center">
+   <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.gg/FUAds7mJB6H" target"blank_"><img src="https://img.shields.io/discord/846052076387958845?style=for-the-badge&color=000000&label=schwesta&logo=node.js&logoColor=white"></a>
+</p>
