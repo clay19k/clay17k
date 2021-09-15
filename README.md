@@ -1,4 +1,4 @@
-<h1 align="center">N E W G L X C K / D E Vİ L'S</h1>
+<h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
 <div align="center">
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
