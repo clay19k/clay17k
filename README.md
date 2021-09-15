@@ -1,4 +1,4 @@
-<h1 align="center"> Newglxck Devils</h1>
+<h1 align="center">N E W G L X C K (retard)</h1>
 
 <div align="center">
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
