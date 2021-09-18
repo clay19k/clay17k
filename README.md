@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/836708164514086973" title="GOD Newglxck"><img src="https://c.tenor.com/PiAL83sWg6kAAAAC/gangster-baddie.gif"></a>
+    <a href="https://discord.com/users/836708164514086973" title="GOD Newglxck"><img src="https://c.tenor.com/oxePj8W183UAAAAd/gangsta.gif"></a>
 </div>
 
 ## Bildiğim Diller!
