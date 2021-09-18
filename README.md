@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://steamuserimages-a.akamaihd.net/ugc/825757737332446748/714A3C80D1DFB241ABA12F1328CE803C6CCA0526/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></a>
+    <a href="https://discord.com/users/836708164514086973" title="GOD Newglxck"><img src="https://c.tenor.com/PiAL83sWg6kAAAAC/gangster-baddie.gif"></a>
 </div>
 
 ## Bildiğim Diller!
