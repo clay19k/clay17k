@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://thumbs.gfycat.com/DishonestWelltodoCrab-size_restricted.gif"></a>
+    <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://i.hizliresim.com/dt88s6g.gif"></a>
 </div>
 
 ## Bildiğim Diller!
