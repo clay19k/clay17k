@@ -22,7 +22,6 @@
    <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <img src="https://komarev.com/ghpvc/?username=newglxck&label=Ziyaretçi%20Sayısı&color=552b75" alt="Newglxck" /></a>
 
 </a>
 </p>
