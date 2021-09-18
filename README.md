@@ -8,7 +8,7 @@
     <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://i.hizliresim.com/dt88s6g.gif"></a>
 </div>
 
-## Bildiğim Diller!
+## Languages I Know!
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/typescript%20-%23E34F26.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -16,7 +16,7 @@
 
 </div>
 
-## Sosyal Medya Hesaplarım!
+## My Social Media Accounts!
 <p align="center">
 <code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
    <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
