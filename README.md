@@ -1,5 +1,7 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
+![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
+
 <div align="center">
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
 </div>
@@ -22,8 +24,6 @@
    <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-     <a  ![](https://komarev.com/ghpvc/?username=Newglxck&label=PROFILE+VIEWS)></a>
-
 </a>
 </p>
 
