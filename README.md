@@ -4,6 +4,8 @@
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
 </div>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:836708164514086973)](https://discord.com/users/:836708164514086973)
+
 <div align="center">
     <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://i.hizliresim.com/dt88s6g.gif"></a>
 </div>
