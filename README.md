@@ -1,7 +1,7 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/836708164514086973?theme=light&bg=00000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/836708164514086973)
-<div align="center"></a>
+<div align="center">
+    <a href="https://discord.com/users/836708164514086973" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
 ## Languages I Know!
