@@ -1,6 +1,6 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
-![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
+                                     ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 
 <div align="center">
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
