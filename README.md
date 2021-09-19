@@ -1,9 +1,5 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
-<div align="center">
-<a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
-</div>
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/836708164514086973?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/836708164514086973)
 <div align="center"></a>
 </div>
