@@ -14,6 +14,7 @@
 
 ## My Social Media Accounts!
 <p align="center">
+   <a href="https://discord.gg/QXghTbvpGU"><img src="https://img.shields.io/badge/Newglxck%20-006400.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
