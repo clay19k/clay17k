@@ -1,7 +1,5 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
-                                     ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
-
 <div align="center">
 <a href="http://tr.devils.cf" target="_blank"><img src="https://i.hizliresim.com/4b27ql9.png" /></a>
 </div>
@@ -26,6 +24,7 @@
    <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
 </p>
+![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 
 ![Newglxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=newglxck&show_icons=true&theme=merko&border_color=39ff14)
 
