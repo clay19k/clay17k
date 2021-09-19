@@ -25,6 +25,6 @@
 </a>
 </p>
 
-![Newglxck's GitHub stats](href=https://github-readme-stats.vercel.app/api?username=newglxck&show_icons=true&theme=merko&border_color=39ff14)
+![Newglxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=newglxck&show_icons=true&theme=merko&border_color=39ff14)
 
 
