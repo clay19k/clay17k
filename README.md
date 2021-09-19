@@ -6,8 +6,6 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/836708164514086973?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/836708164514086973)
 <div align="center"></a>
-
-    <a href="https://discord.com/users/836708164514086973" title="Discord Account"><img src="https://i.hizliresim.com/dt88s6g.gif"></a>
 </div>
 
 ## Languages I Know!
