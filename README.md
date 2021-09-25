@@ -1,11 +1,5 @@
 <h1 align="center">N E W G L X C K / D E V İ L'S</h1>
 
-<h1 align="center">Hi 👋, I'm Néwglxck</h1>
-
-### A young software lover in Turkey.
-
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Néwglxck&theme=dark&show_icons=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Néwglxck" /></p>
-
 <div align="center">
     <a href="https://discord.com/users/836708164514086973" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
@@ -31,7 +25,20 @@
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 </a>
 </p>
+<h1 align="center">Hi 👋, I'm Néwglxck</h1>
 
-![Newglxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=newglxck&show_icons=true&theme=merko&border_color=39ff14)
+### A young software lover in Turkey.
 
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Néwglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Néwglxck" /></p>
+
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Néwglxck&theme=dark&show_icons=true&locale=en" alt="Néwglxck"  ></p>
+
+Hello, I am a 16 year old developer.\
+I usually develop bots with [Node.JS](https://nodejs.org/en/docs/)
+I'm trying to learn [JavaScript](https://www.javascript.com/) right now, it's going well.\
+I usually do back-end programming, front-end is not very interesting to me.\
+I like to listen to music while dealing with software.\
+If you want to support my projects, you can star the projects.
+
+<h3 align="left">Contact with me:</h3>
 
