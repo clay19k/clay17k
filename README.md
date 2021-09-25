@@ -29,9 +29,9 @@
 
 ### A young software lover in Turkey.
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Néwglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Néwglxck" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Néwglxck&theme=dark&show_icons=true&locale=en" alt="Néwglxck"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p>
 
 Hello, I am a 16 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/)
