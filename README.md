@@ -4,14 +4,8 @@
     <a href="https://discord.com/users/836708164514086973" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
-## Languages I Know!
-<div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<h1 align="center">Hi 👋, I'm Néwglxck</h1>
 
-</div>
-
-## My Social Media Accounts!
 <div align="center">
 </a>
    <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -24,13 +18,17 @@
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 </a>
 </p>
-<h1 align="center">Hi 👋, I'm Néwglxck</h1>
-
-### A young software lover in Turkey.
+<h1 align="center">A young software lover in Turkey.</h1>
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p>
+
+### 🛠 &nbsp;Software Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 Hello, I am a 16 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/)
