@@ -39,4 +39,4 @@ If you want to support my projects, you can star the projects.
 
 <h3 align="left">Contact with me:</h3>
 <p align="center">
-   <a href="https://discord.gg/FUAds7mJB6"><img src="https://img.shields.io/badge/Glxck Squad%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.gg/e6G8BcKfhb"><img src="https://img.shields.io/badge/Glxck Squad%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
