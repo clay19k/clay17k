@@ -7,6 +7,13 @@
 
 <h1 align="center">Hi 👋, I'm Néwglxck</h1>
 
+
+<p align="center">
+    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://open.spotify.com/user/e60or493wvkgt43g7f01csjo5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+       <a href="https://steamcommunity.com/id/newglxck0" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
+</p>
+
 <div align="center">
 </a>
    <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -16,7 +23,10 @@
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
+<div>
+    <div align="center">
+    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":aw3rque" />
+</div>
 </a>
 </p>
 <h1 align="center">A young software lover in Turkey.</h1>
