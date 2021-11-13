@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/banners/646873608462925824/a_90b9cb08919b9969aa731b186c0e5e36.gif?size=300">
 
 <div align="center">
-   <a href="https://discord.com/users/836708164514086973" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/836708164514086973">
+   <a href="https://discord.com/users/896370655606493264" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/896370655606493264">
    </a>
 
 <h1 align="center">Hi 👋, I'm Néwglxck</h1>
