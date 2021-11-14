@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-Hello, I am a 16 year old developer.\
+Hello, I am a 20 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/)
 I'm trying to learn [JavaScript](https://www.javascript.com/) right now, it's going well.\
 I usually do back-end programming, front-end is not very interesting to me.\
