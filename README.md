@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/banners/646873608462925824/a_90b9cb08919b9969aa731b186c0e5e36.gif?size=300">
 
 <div align="center">
-   <a href="https://discord.com/users/896370655606493264" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/896370655606493264">
+   <a href="https://discord.com/users/910544507240591360" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/910544507240591360">
    </a>
 
 <h1 align="center">Hi 👋, I'm Néwglxck</h1>
@@ -19,7 +19,7 @@
 
 <div align="center">
 </a>
-   <a href="https://discord.com/users/836708164514086973" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/910544507240591360" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
