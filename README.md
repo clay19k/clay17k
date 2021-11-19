@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/banners/646873608462925824/a_90b9cb08919b9969aa731b186c0e5e36.gif?size=300">
 
 <div align="center">
-   <a href="https://discord.com/users/910544507240591360" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/910544507240591360">
+   <a href="https://discord.com/users/736943936073105418" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/736943936073105418">
    </a>
 
 <h1 align="center">Hi 👋, I'm Néwglxck</h1>
@@ -53,4 +53,4 @@ If you want to support my projects, you can star the projects.
 
 <h3 align="left">Contact with me:</h3>
 <p align="center">
-   <a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/ALLAH YOK%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/allah yok%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
