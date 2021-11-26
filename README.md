@@ -10,6 +10,7 @@
 <div align="center">
 </a>
    <a href="https://discord.com/users/736943936073105418" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/G L X C K%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://sptfy.com/cxn" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.instagram.com/newqlxck/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/newglxck/" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -40,7 +41,3 @@ I'm trying to learn [JavaScript](https://www.javascript.com/) right now, it's go
 I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
 If you want to support my projects, you can star the projects.
-
-<h3 align="left">Contact with me:</h3>
-<p align="center">
-   <a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/allah yok%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
