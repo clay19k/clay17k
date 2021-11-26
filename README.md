@@ -7,19 +7,12 @@
 
 <h1 align="center">Hi 👋, I'm Néwglxck</h1>
 
-
-<p align="center">
-    <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://open.spotify.com/user/e60or493wvkgt43g7f01csjo5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://steamcommunity.com/id/newglxck0" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
-</p>
-
 <div align="center">
 </a>
-   <a href="https://discord.com/users/910544507240591360" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/playlist/4o53acTjjAThSgdAyFR4LS?si=8e6b81075d084f7b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://instagram.com/newqlxck" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://discord.com/users/736943936073105418" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://sptfy.com/cxn" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://www.instagram.com/newqlxck/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/newglxck/" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
 </p>
 
