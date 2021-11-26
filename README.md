@@ -18,7 +18,7 @@
 
 <div>
     <div align="center">
-    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":newglxck" />
+    <img src="https://count.getloli.com/get/@:aw3rque?theme=newglxck" alt=":newglxck" />
 </div>
 </a>
 </p>
