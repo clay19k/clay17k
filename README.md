@@ -27,17 +27,4 @@
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p>
-
-### 🛠 &nbsp;Software Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-Hello, I am a 18 year old developer.\
-I usually develop bots with [Node.JS](https://nodejs.org/en/docs/)
-I'm trying to learn [JavaScript](https://www.javascript.com/) right now, it's going well.\
-I usually do back-end programming, front-end is not very interesting to me.\
-I like to listen to music while dealing with software.\
-If you want to support my projects, you can star the projects.
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p
