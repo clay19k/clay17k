@@ -10,7 +10,7 @@
 <div align="center">
 </a>
    <a href="https://discord.com/users/910544507240591360" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/G L X C K%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/At85hzPv"><img src="https://img.shields.io/badge/G L X C K%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://sptfy.com/cxn" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.instagram.com/newqlxck/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/newglxck/" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
