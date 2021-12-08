@@ -25,6 +25,6 @@
 </p>
 <h1 align="center">A young software lover in Turkey.</h1>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
+<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" />
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p
+<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck">
