@@ -8,6 +8,9 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/910544507240591360">
    </a>
 
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ohht6pnudhwrtixaks6yt4vciu)
+
 <div align="center">
 </a>
    <a href="https://discord.com/users/910544507240591360" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
