@@ -1,8 +1,5 @@
 <h1 align="center">C L A Y / D E V İ L'S</h1>
 
-<h1 align="center">Hi 👋, I'm Clay <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="30px"></h1>
-
-
 <div align="center">
    <a href="https://discord.com/users/283860131127623680" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/283860131127623680">
