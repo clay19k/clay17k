@@ -28,6 +28,6 @@
 </a>
 </p>
 
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullclay&theme=dark&show_icons=true&locale=en&layout=compact" alt="Clay" />
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay17k&theme=dark&show_icons=true&locale=en&layout=compact" alt="Clay" />
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nullclay&theme=dark&show_icons=true&locale=en" alt="Clay">
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=clay17k&theme=dark&show_icons=true&locale=en" alt="Clay">
