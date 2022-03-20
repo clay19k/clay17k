@@ -1,4 +1,4 @@
-<h1>C L A Y / D E V İ L'S</h1>
+<h1>C L A Y / D E V I L'S</h1>
 
 <div>
     <div>
