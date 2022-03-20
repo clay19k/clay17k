@@ -13,7 +13,7 @@
 ✔️・**Latest open source project [Anti-Debug](https://github.com/clay17k/discord-themes)**
 
 📩・**Want to reach? Add clay#0017 on [discord](https://discord.gg/kuyu) or mail clay17k@gmail.com**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay17k&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=clay17k&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="clay" /> </p>
 🌐・**Discord Server: [Kuyu](https://discord.gg/kuyu)**
 
 <a href="https://discord.gg/kuyu" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/187185482730438657.png"/></a>
